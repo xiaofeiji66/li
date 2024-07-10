@@ -16,16 +16,3 @@ m3u 格式直播源地址（已加速）：https://raw.githubusercontent.com/wwb
 
 ## 空壳直播软件<br/>
 https://wwt.lanzouj.com/b00y2bymj 密码:7kkf<br/>
-
-## 如果你觉得我的这些很麻烦，就用下面的这个<br/>
-https://lyrics.run/my-tv.html
-
-## 更新节目表方法：
-如果是用着TVbox这类的软件，既有点播、直播一体的，有些可以自动更新直播源，有些不可以，以派大星直播为例，使用如下截图的方法操作，之后重启软件就可以<br/>
-<img src="https://github.com/wwb521/live/blob/main/jc.png" width="500px">
-
-## 如果有别的问题或者有更好的直播源，可以扫码联系
-<img src="https://github.com/wwb521/live/blob/main/lx.png" width="400px"><br/>
-
-## 如果觉得不错，不要忘记请我喝杯咖啡哦<br/>
-<img src="https://github.com/wwb521/live/blob/main/pay.jpeg" width="800px">
